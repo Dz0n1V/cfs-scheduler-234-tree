@@ -1,0 +1,5 @@
+editor 20 40
+compiler 35 60
+backup 50 25
+browser 15 30
+shell 10 20
